@@ -1,0 +1,385 @@
+season,matchday,date,time,home_team,away_team,result,home_goals,away_goals
+25/26,1,2025-08-22,10:00,Remo Stars FC,Rivers United,1:1,1.0,1.0
+25/26,1,2025-08-24,11:00,Abia Warriors,Kano Pillars,1:0,1.0,0.0
+25/26,1,2025-08-24,11:00,Wikki Tourists,Plateau United,1:0,1.0,0.0
+25/26,1,2025-08-24,11:00,Katsina Utd.,Warri Wolves FC,0:1,0.0,1.0
+25/26,1,2025-08-24,11:00,Rangers,Kun Khalifat FC,0:0,0.0,0.0
+25/26,1,2025-08-24,11:00,Kwara United,Ikorodu City,0:0,0.0,0.0
+25/26,1,2025-08-24,11:00,Kanemi Warriors,Bendel Ins.,2:0,2.0,0.0
+25/26,1,2025-08-24,11:00,Shooting Stars,Bayelsa,0:1,0.0,1.0
+25/26,1,2025-08-24,11:00,Barau FC,Enyimba Aba,0:0,0.0,0.0
+25/26,1,2025-08-27,11:00,Niger Tornadoes,Nasarawa United,1:0,1.0,0.0
+25/26,2,2025-08-30,11:00,Bendel Ins.,Shooting Stars (18.),1:1,1.0,1.0
+25/26,2,2025-08-31,10:00,Enyimba Aba,Niger Tornadoes (4.),1:0,1.0,0.0
+25/26,2,2025-08-31,10:00,Bayelsa,Barau FC (9.),2:0,2.0,0.0
+25/26,2,2025-08-31,11:00,Rivers United,Kwara United (13.),1:0,1.0,0.0
+25/26,2,2025-08-31,11:00,Warri Wolves FC,Rangers (14.),2:0,2.0,0.0
+25/26,2,2025-08-31,11:00,Plateau United,Katsina Utd. (15.),1:2,1.0,2.0
+25/26,2,2025-08-31,11:00,Nasarawa United,Abia Warriors (2.),1:0,1.0,0.0
+25/26,2,2025-08-31,11:00,Kano Pillars,Wikki Tourists (6.),1:1,1.0,1.0
+25/26,2,2025-08-31,12:30,Ikorodu City,Kanemi Warriors (1.),0:0,0.0,0.0
+25/26,2,2025-09-01,11:00,Kun Khalifat FC,Remo Stars FC (7.),1:2,1.0,2.0
+25/26,3,2025-09-07,11:00,Barau FC,Bendel Ins. (16.),1:1,1.0,1.0
+25/26,3,2025-09-07,11:00,Kanemi Warriors,Rivers United (5.),0:0,0.0,0.0
+25/26,3,2025-09-07,11:00,Enyimba Aba,Nasarawa United (10.),0:0,0.0,0.0
+25/26,3,2025-09-07,11:00,Katsina Utd.,Kano Pillars (20.),1:0,1.0,0.0
+25/26,3,2025-09-07,11:00,Kwara United,Kun Khalifat FC (13.),2:0,2.0,0.0
+25/26,3,2025-09-07,11:00,Niger Tornadoes,Bayelsa (1.),1:0,1.0,0.0
+25/26,3,2025-09-07,11:00,Rangers,Plateau United (19.),2:0,2.0,0.0
+25/26,3,2025-09-07,11:00,Remo Stars FC,Warri Wolves FC (2.),1:0,1.0,0.0
+25/26,3,2025-09-07,11:00,Shooting Stars,Ikorodu City (12.),1:1,1.0,1.0
+25/26,3,2025-09-07,11:00,Wikki Tourists,Abia Warriors (9.),1:0,1.0,0.0
+25/26,4,2025-09-13,11:00,Bendel Ins.,Niger Tornadoes (6.),1:0,1.0,0.0
+25/26,4,2025-09-14,11:00,Abia Warriors,Katsina Utd. (5.),1:0,1.0,0.0
+25/26,4,2025-09-14,11:00,Bayelsa,Enyimba Aba (9.),0:2,0.0,2.0
+25/26,4,2025-09-14,11:00,Kano Pillars,Rangers (11.),1:0,1.0,0.0
+25/26,4,2025-09-14,11:00,Kun Khalifat FC,Kanemi Warriors (7.),3:1,3.0,1.0
+25/26,4,2025-09-14,11:00,Nasarawa United,Wikki Tourists (2.),1:0,1.0,0.0
+25/26,4,2025-09-14,11:00,Plateau United,Remo Stars FC (1.),2:0,2.0,0.0
+25/26,4,2025-09-14,11:00,Rivers United,Shooting Stars (15.),1:0,1.0,0.0
+25/26,4,2025-09-14,11:00,Warri Wolves FC,Kwara United (10.),0:0,0.0,0.0
+25/26,4,2025-09-14,12:30,Ikorodu City,Barau FC (17.),2:0,2.0,0.0
+25/26,5,2025-09-21,11:00,Bayelsa,Nasarawa United (5.),1:2,1.0,2.0
+25/26,5,2025-09-21,11:00,Kanemi Warriors,Warri Wolves FC (3.),1:0,1.0,0.0
+25/26,5,2025-09-21,11:00,Enyimba Aba,Bendel Ins. (14.),3:2,3.0,2.0
+25/26,5,2025-09-21,11:00,Niger Tornadoes,Ikorodu City (7.),4:2,4.0,2.0
+25/26,5,2025-09-21,11:00,Shooting Stars,Kun Khalifat FC (15.),2:1,2.0,1.0
+25/26,5,2025-09-22,11:00,Katsina Utd.,Wikki Tourists (4.),1:0,1.0,0.0
+25/26,5,2025-10-02,11:00,Kwara United,Plateau United (17.),2:1,2.0,1.0
+25/26,5,2025-10-08,11:00,Rangers,Abia Warriors (10.),2:0,2.0,0.0
+25/26,5,2025-11-19,10:00,Remo Stars FC,Kano Pillars (20.),1:0,1.0,0.0
+25/26,5,2025-12-19,10:00,Barau FC,Rivers United (2.),4:1,4.0,1.0
+25/26,6,2025-09-27,11:00,Bendel Ins.,Bayelsa (13.),1:1,1.0,1.0
+25/26,6,2025-09-27,11:00,Plateau United,Kanemi Warriors (7.),1:0,1.0,0.0
+25/26,6,2025-09-28,11:00,Kun Khalifat FC,Barau FC (15.),1:3,1.0,3.0
+25/26,6,2025-09-28,11:00,Nasarawa United,Katsina Utd. (5.),2:0,2.0,0.0
+25/26,6,2025-09-28,11:00,Warri Wolves FC,Shooting Stars (16.),1:2,1.0,2.0
+25/26,6,2025-09-28,11:00,Wikki Tourists,Rangers (9.),2:2,2.0,2.0
+25/26,6,2025-09-28,12:30,Ikorodu City,Enyimba Aba (1.),1:1,1.0,1.0
+25/26,6,2025-10-01,11:00,Rivers United,Niger Tornadoes (4.),1:0,1.0,0.0
+25/26,6,2025-10-02,11:00,Abia Warriors,Remo Stars FC (3.),2:0,2.0,0.0
+25/26,6,2025-10-08,11:00,Kano Pillars,Kwara United (6.),1:0,1.0,0.0
+25/26,7,2025-10-04,11:00,Bendel Ins.,Nasarawa United (1.),0:1,0.0,1.0
+25/26,7,2025-10-04,11:00,Kanemi Warriors,Kano Pillars (19.),2:1,2.0,1.0
+25/26,7,2025-10-05,11:00,Barau FC,Warri Wolves FC (15.),0:1,0.0,1.0
+25/26,7,2025-10-05,11:00,Bayelsa,Ikorodu City (14.),1:1,1.0,1.0
+25/26,7,2025-10-05,11:00,Enyimba Aba,Rivers United (3.),0:0,0.0,0.0
+25/26,7,2025-10-05,11:00,Kwara United,Abia Warriors (6.),0:1,0.0,1.0
+25/26,7,2025-10-05,11:00,Niger Tornadoes,Kun Khalifat FC (20.),1:1,1.0,1.0
+25/26,7,2025-10-05,11:00,Shooting Stars,Plateau United (18.),1:0,1.0,0.0
+25/26,7,2025-10-06,03:00,Rangers,Katsina Utd. (7.),1:0,1.0,0.0
+25/26,7,2025-10-06,11:00,Remo Stars FC,Wikki Tourists (12.),2:0,2.0,0.0
+25/26,8,2025-10-12,11:00,Abia Warriors,Kanemi Warriors (8.),2:0,2.0,0.0
+25/26,8,2025-10-12,11:00,Kano Pillars,Shooting Stars (7.),1:1,1.0,1.0
+25/26,8,2025-10-12,11:00,Katsina Utd.,Remo Stars FC (3.),3:1,3.0,1.0
+25/26,8,2025-10-12,11:00,Kun Khalifat FC,Enyimba Aba (2.),1:0,1.0,0.0
+25/26,8,2025-10-12,11:00,Nasarawa United,Rangers (6.),2:1,2.0,1.0
+25/26,8,2025-10-12,11:00,Plateau United,Barau FC (12.),2:0,2.0,0.0
+25/26,8,2025-10-12,11:00,Warri Wolves FC,Niger Tornadoes (9.),1:1,1.0,1.0
+25/26,8,2025-10-12,11:00,Wikki Tourists,Kwara United (14.),1:1,1.0,1.0
+25/26,8,2025-10-12,12:30,Ikorodu City,Bendel Ins. (17.),1:0,1.0,0.0
+25/26,8,2025-10-13,03:00,Rivers United,Bayelsa (15.),1:2,1.0,2.0
+25/26,9,2025-10-19,11:00,Barau FC,Kano Pillars (20.),2:1,2.0,1.0
+25/26,9,2025-10-19,11:00,Bayelsa,Kun Khalifat FC (18.),1:2,1.0,2.0
+25/26,9,2025-10-19,11:00,Kanemi Warriors,Wikki Tourists (16.),2:1,2.0,1.0
+25/26,9,2025-10-19,11:00,Enyimba Aba,Warri Wolves FC (11.),1:2,1.0,2.0
+25/26,9,2025-10-19,11:00,Ikorodu City,Nasarawa United (1.),2:0,2.0,0.0
+25/26,9,2025-10-19,11:00,Kwara United,Katsina Utd. (6.),1:0,1.0,0.0
+25/26,9,2025-10-19,11:00,Niger Tornadoes,Plateau United (15.),4:0,4.0,0.0
+25/26,9,2025-10-19,11:00,Shooting Stars,Abia Warriors (2.),2:0,2.0,0.0
+25/26,9,2025-11-06,10:00,Bendel Ins.,Rivers United (7.),0:0,0.0,0.0
+25/26,9,2025-11-13,10:00,Remo Stars FC,Rangers (10.),0:1,0.0,1.0
+25/26,10,2025-10-24,11:00,Katsina Utd.,Kanemi Warriors (8.),1:0,1.0,0.0
+25/26,10,2025-10-25,11:00,Kano Pillars,Niger Tornadoes (4.),0:2,0.0,2.0
+25/26,10,2025-10-26,11:00,Rangers,Kwara United (12.),0:0,0.0,0.0
+25/26,10,2025-10-26,11:00,Warri Wolves FC,Bayelsa (15.),2:0,2.0,0.0
+25/26,10,2025-10-26,11:00,Wikki Tourists,Shooting Stars (2.),2:0,2.0,0.0
+25/26,10,2025-10-26,12:00,Abia Warriors,Barau FC (14.),2:0,2.0,0.0
+25/26,10,2025-10-26,12:00,Kun Khalifat FC,Bendel Ins. (19.),1:1,1.0,1.0
+25/26,10,2025-10-26,12:00,Plateau United,Enyimba Aba (9.),2:1,2.0,1.0
+25/26,10,2025-10-29,12:00,Rivers United,Ikorodu City (5.),0:0,0.0,0.0
+25/26,10,2025-11-06,10:00,Nasarawa United,Remo Stars FC (11.),2:1,2.0,1.0
+25/26,11,2025-11-01,11:00,Bendel Ins.,Warri Wolves FC (4.),1:1,1.0,1.0
+25/26,11,2025-11-01,11:00,Kwara United,Remo Stars FC (13.),3:1,3.0,1.0
+25/26,11,2025-11-02,02:00,Bayelsa,Plateau United (16.),2:1,2.0,1.0
+25/26,11,2025-11-02,10:00,Barau FC,Wikki Tourists (14.),0:0,0.0,0.0
+25/26,11,2025-11-02,10:00,Kanemi Warriors,Rangers (6.),0:0,0.0,0.0
+25/26,11,2025-11-02,10:00,Enyimba Aba,Kano Pillars (20.),2:0,2.0,0.0
+25/26,11,2025-11-02,10:00,Ikorodu City,Kun Khalifat FC (15.),2:0,2.0,0.0
+25/26,11,2025-11-02,10:00,Niger Tornadoes,Abia Warriors (2.),1:2,1.0,2.0
+25/26,11,2025-11-02,10:00,Rivers United,Nasarawa United (1.),1:0,1.0,0.0
+25/26,11,2025-11-02,10:00,Shooting Stars,Katsina Utd. (8.),1:1,1.0,1.0
+25/26,12,2025-11-08,10:00,Katsina Utd.,Barau FC (16.),1:1,1.0,1.0
+25/26,12,2025-11-09,10:00,Abia Warriors,Enyimba Aba (7.),0:0,0.0,0.0
+25/26,12,2025-11-09,10:00,Kano Pillars,Bayelsa (13.),0:0,0.0,0.0
+25/26,12,2025-11-09,10:00,Nasarawa United,Kwara United (8.),1:1,1.0,1.0
+25/26,12,2025-11-09,10:00,Rangers,Shooting Stars (10.),1:0,1.0,0.0
+25/26,12,2025-11-09,10:00,Warri Wolves FC,Ikorodu City (3.),0:2,0.0,2.0
+25/26,12,2025-11-09,10:00,Wikki Tourists,Niger Tornadoes (5.),1:0,1.0,0.0
+25/26,12,2025-11-10,10:00,Kun Khalifat FC,Rivers United (6.),0:1,0.0,1.0
+25/26,12,2025-11-10,10:00,Plateau United,Bendel Ins. (19.),1:0,1.0,0.0
+25/26,12,2025-11-10,10:00,Remo Stars FC,Kanemi Warriors (12.),2:1,2.0,1.0
+25/26,13,2025-11-15,10:00,Bendel Ins.,Kano Pillars (20.),3:2,3.0,2.0
+25/26,13,2025-11-16,09:00,Kanemi Warriors,Kwara United (9.),2:0,2.0,0.0
+25/26,13,2025-11-16,10:00,Niger Tornadoes,Katsina Utd. (10.),2:0,2.0,0.0
+25/26,13,2025-11-16,10:00,Enyimba Aba,Wikki Tourists (12.),0:1,0.0,1.0
+25/26,13,2025-11-16,10:00,Bayelsa,Abia Warriors (2.),2:1,2.0,1.0
+25/26,13,2025-11-16,10:00,Ikorodu City,Plateau United (16.),2:1,2.0,1.0
+25/26,13,2025-11-16,10:00,Rivers United,Warri Wolves FC (6.),2:1,2.0,1.0
+25/26,13,2025-11-16,10:00,Kun Khalifat FC,Nasarawa United (1.),1:1,1.0,1.0
+25/26,13,2025-11-17,10:00,Barau FC,Rangers (5.),2:0,2.0,0.0
+25/26,13,2025-12-03,10:00,Shooting Stars,Remo Stars FC (13.),1:0,1.0,0.0
+25/26,14,2025-11-23,10:00,Kwara United,Shooting Stars (6.),0:0,0.0,0.0
+25/26,14,2025-11-23,10:00,Remo Stars FC,Barau FC (15.),2:0,2.0,0.0
+25/26,14,2025-11-23,10:00,Rangers,Niger Tornadoes (5.),1:0,1.0,0.0
+25/26,14,2025-11-23,10:00,Wikki Tourists,Bayelsa (11.),1:1,1.0,1.0
+25/26,14,2025-11-23,10:00,Abia Warriors,Bendel Ins. (19.),0:0,0.0,0.0
+25/26,14,2025-11-23,10:00,Warri Wolves FC,Kun Khalifat FC (18.),1:1,1.0,1.0
+25/26,14,2025-11-23,10:00,Nasarawa United,Kanemi Warriors (10.),3:0,3.0,0.0
+25/26,14,2025-11-24,10:00,Katsina Utd.,Enyimba Aba (12.),3:2,3.0,2.0
+25/26,14,2025-11-24,10:00,Kano Pillars,Ikorodu City (1.),2:1,2.0,1.0
+25/26,14,2025-12-11,10:00,Plateau United,Rivers United (3.),1:2,1.0,2.0
+25/26,15,2025-11-29,10:00,Niger Tornadoes,Remo Stars FC (12.),1:0,1.0,0.0
+25/26,15,2025-11-29,10:00,Bendel Ins.,Wikki Tourists (8.),3:0,3.0,0.0
+25/26,15,2025-11-30,10:00,Shooting Stars,Kanemi Warriors (14.),1:0,1.0,0.0
+25/26,15,2025-11-30,10:00,Barau FC,Kwara United (13.),3:2,3.0,2.0
+25/26,15,2025-11-30,10:00,Enyimba Aba,Rangers (5.),2:1,2.0,1.0
+25/26,15,2025-11-30,10:00,Bayelsa,Katsina Utd. (9.),1:1,1.0,1.0
+25/26,15,2025-11-30,10:00,Ikorodu City,Abia Warriors (4.),1:0,1.0,0.0
+25/26,15,2025-11-30,10:00,Kun Khalifat FC,Plateau United (17.),2:0,2.0,0.0
+25/26,15,2025-11-30,10:00,Warri Wolves FC,Nasarawa United (1.),1:0,1.0,0.0
+25/26,15,2025-12-03,10:00,Rivers United,Kano Pillars (20.),1:0,1.0,0.0
+25/26,16,2025-12-07,09:00,Kanemi Warriors,Barau FC (13.),0:0,0.0,0.0
+25/26,16,2025-12-07,09:30,Kano Pillars,Kun Khalifat FC (17.),2:1,2.0,1.0
+25/26,16,2025-12-07,10:00,Kwara United,Niger Tornadoes (4.),2:0,2.0,0.0
+25/26,16,2025-12-07,10:00,Remo Stars FC,Enyimba Aba (10.),2:1,2.0,1.0
+25/26,16,2025-12-07,10:00,Rangers,Bayelsa (11.),4:1,4.0,1.0
+25/26,16,2025-12-07,10:00,Wikki Tourists,Ikorodu City (2.),0:0,0.0,0.0
+25/26,16,2025-12-07,10:00,Abia Warriors,Rivers United (1.),1:1,1.0,1.0
+25/26,16,2025-12-07,10:00,Plateau United,Warri Wolves FC (7.),1:0,1.0,0.0
+25/26,16,2025-12-08,10:00,Katsina Utd.,Bendel Ins. (18.),0:1,0.0,1.0
+25/26,16,2025-12-08,10:00,Nasarawa United,Shooting Stars (5.),1:0,1.0,0.0
+25/26,17,2025-12-13,10:00,Bendel Ins.,Rangers (4.),1:1,1.0,1.0
+25/26,17,2025-12-14,10:00,Barau FC,Shooting Stars (7.),0:1,0.0,1.0
+25/26,17,2025-12-14,10:00,Niger Tornadoes,Kanemi Warriors (17.),3:0,3.0,0.0
+25/26,17,2025-12-14,10:00,Enyimba Aba,Kwara United (10.),3:1,3.0,1.0
+25/26,17,2025-12-14,10:00,Bayelsa,Remo Stars FC (9.),2:1,2.0,1.0
+25/26,17,2025-12-14,10:00,Kun Khalifat FC,Abia Warriors (5.),0:1,0.0,1.0
+25/26,17,2025-12-14,10:00,Warri Wolves FC,Kano Pillars (20.),0:0,0.0,0.0
+25/26,17,2025-12-14,10:00,Plateau United,Nasarawa United (1.),0:0,0.0,0.0
+25/26,17,2025-12-15,10:00,Ikorodu City,Katsina Utd. (11.),0:0,0.0,0.0
+25/26,17,2025-12-15,10:00,Rivers United,Wikki Tourists (12.),1:0,1.0,0.0
+25/26,18,2025-12-21,09:00,Kanemi Warriors,Enyimba Aba (8.),3:2,3.0,2.0
+25/26,18,2025-12-21,09:30,Kano Pillars,Plateau United (17.),2:1,2.0,1.0
+25/26,18,2025-12-21,10:00,Shooting Stars,Niger Tornadoes (5.),2:1,2.0,1.0
+25/26,18,2025-12-21,10:00,Remo Stars FC,Bendel Ins. (15.),2:3,2.0,3.0
+25/26,18,2025-12-21,10:00,Rangers,Ikorodu City (3.),2:1,2.0,1.0
+25/26,18,2025-12-21,10:00,Wikki Tourists,Kun Khalifat FC (19.),0:0,0.0,0.0
+25/26,18,2025-12-21,10:00,Abia Warriors,Warri Wolves FC (9.),1:0,1.0,0.0
+25/26,18,2025-12-21,10:00,Kwara United,Bayelsa (10.),2:0,2.0,0.0
+25/26,18,2025-12-22,10:00,Katsina Utd.,Rivers United (1.),1:1,1.0,1.0
+25/26,18,2025-12-23,10:00,Nasarawa United,Barau FC (16.),0:0,0.0,0.0
+25/26,19,2025-12-27,10:00,Bendel Ins.,Kwara United (8.),2:0,2.0,0.0
+25/26,19,2025-12-28,09:30,Kano Pillars,Nasarawa United (2.),3:0,3.0,0.0
+25/26,19,2025-12-28,10:00,Niger Tornadoes,Barau FC (17.),2:0,2.0,0.0
+25/26,19,2025-12-28,10:00,Enyimba Aba,Shooting Stars (6.),3:0,3.0,0.0
+25/26,19,2025-12-28,10:00,Bayelsa,Kanemi Warriors (16.),0:1,0.0,1.0
+25/26,19,2025-12-28,10:00,Rivers United,Rangers (5.),1:0,1.0,0.0
+25/26,19,2025-12-28,10:00,Kun Khalifat FC,Katsina Utd. (12.),0:1,0.0,1.0
+25/26,19,2025-12-28,10:00,Warri Wolves FC,Wikki Tourists (14.),2:2,2.0,2.0
+25/26,19,2025-12-28,10:00,Plateau United,Abia Warriors (3.),0:1,0.0,1.0
+25/26,19,2025-12-28,12:00,Ikorodu City,Remo Stars FC (15.),1:0,1.0,0.0
+25/26,20,2026-01-14,09:00,Kanemi Warriors,Bayelsa (15.),1:0,1.0,0.0
+25/26,20,2026-01-14,09:30,Barau FC,Niger Tornadoes (5.),2:1,2.0,1.0
+25/26,20,2026-01-14,10:00,Shooting Stars,Enyimba Aba (8.),3:0,3.0,0.0
+25/26,20,2026-01-14,10:00,Kwara United,Bendel Ins. (9.),0:1,0.0,1.0
+25/26,20,2026-01-14,10:00,Remo Stars FC,Ikorodu City (3.),1:0,1.0,0.0
+25/26,20,2026-01-14,10:00,Rangers,Rivers United (1.),0:0,0.0,0.0
+25/26,20,2026-01-14,10:00,Wikki Tourists,Warri Wolves FC (13.),0:1,0.0,1.0
+25/26,20,2026-01-14,10:00,Abia Warriors,Plateau United (19.),1:1,1.0,1.0
+25/26,20,2026-01-14,10:00,Nasarawa United,Kano Pillars (18.),0:1,0.0,1.0
+25/26,20,2026-01-15,09:30,Katsina Utd.,Kun Khalifat FC (20.),2:0,2.0,0.0
+25/26,21,2026-01-12,10:00,Bendel Ins.,Kanemi Warriors,-:-,,
+25/26,21,2026-01-17,10:00,Bendel Ins.,Kanemi Warriors (10.),-:-,,
+25/26,21,2026-01-18,09:30,Kano Pillars,Abia Warriors (2.),-:-,,
+25/26,21,2026-01-18,10:00,Plateau United,Wikki Tourists (16.),-:-,,
+25/26,21,2026-01-18,10:00,Warri Wolves FC,Katsina Utd. (9.),-:-,,
+25/26,21,2026-01-18,10:00,Kun Khalifat FC,Rangers (6.),-:-,,
+25/26,21,2026-01-18,10:00,Rivers United,Remo Stars FC (13.),-:-,,
+25/26,21,2026-01-18,10:00,Ikorodu City,Kwara United (14.),-:-,,
+25/26,21,2026-01-18,10:00,Bayelsa,Shooting Stars (4.),-:-,,
+25/26,21,2026-01-18,10:00,Enyimba Aba,Barau FC (15.),-:-,,
+25/26,21,2026-01-18,10:00,Nasarawa United,Niger Tornadoes (7.),-:-,,
+25/26,22,2026-01-18,10:00,Rivers United,Enyimba Aba,-:-,,
+25/26,22,2026-01-21,09:00,Kanemi Warriors,Ikorodu City,-:-,,
+25/26,22,2026-01-21,09:30,Barau FC,Bayelsa,-:-,,
+25/26,22,2026-01-21,10:00,Wikki Tourists,Kano Pillars,-:-,,
+25/26,22,2026-01-21,10:00,Remo Stars FC,Kun Khalifat FC,-:-,,
+25/26,22,2026-01-21,10:00,Abia Warriors,Nasarawa United,-:-,,
+25/26,22,2026-01-21,10:00,Rangers,Warri Wolves FC,-:-,,
+25/26,22,2026-01-21,10:00,Kwara United,Rivers United,-:-,,
+25/26,22,2026-01-21,10:00,Niger Tornadoes,Enyimba Aba,-:-,,
+25/26,22,2026-01-22,10:00,Katsina Utd.,Plateau United,-:-,,
+25/26,22,2026-01-25,10:00,Shooting Stars,Bendel Ins.,-:-,,
+25/26,23,2026-01-25,10:00,Abia Warriors,Wikki Tourists,-:-,,
+25/26,23,2026-01-25,10:00,Kano Pillars,Katsina Utd.,-:-,,
+25/26,23,2026-01-25,10:00,Plateau United,Rangers,-:-,,
+25/26,23,2026-01-25,10:00,Warri Wolves FC,Remo Stars FC,-:-,,
+25/26,23,2026-01-25,10:00,Kun Khalifat FC,Kwara United,-:-,,
+25/26,23,2026-01-25,10:00,Rivers United,Kanemi Warriors,-:-,,
+25/26,23,2026-01-25,10:00,Bayelsa,Niger Tornadoes,-:-,,
+25/26,23,2026-01-25,10:00,Nasarawa United,Enyimba Aba,-:-,,
+25/26,23,2026-01-28,10:00,Ikorodu City,Shooting Stars,-:-,,
+25/26,23,2026-01-31,10:00,Bendel Ins.,Barau FC,-:-,,
+25/26,24,2026-02-01,09:00,Kanemi Warriors,Kun Khalifat FC,-:-,,
+25/26,24,2026-02-01,10:00,Katsina Utd.,Abia Warriors,-:-,,
+25/26,24,2026-02-01,10:00,Rangers,Kano Pillars,-:-,,
+25/26,24,2026-02-01,10:00,Remo Stars FC,Plateau United,-:-,,
+25/26,24,2026-02-01,10:00,Kwara United,Warri Wolves FC,-:-,,
+25/26,24,2026-02-01,10:00,Shooting Stars,Rivers United,-:-,,
+25/26,24,2026-02-01,10:00,Barau FC,Ikorodu City,-:-,,
+25/26,24,2026-02-01,10:00,Niger Tornadoes,Bendel Ins.,-:-,,
+25/26,24,2026-02-01,10:00,Enyimba Aba,Bayelsa,-:-,,
+25/26,24,2026-02-01,10:00,Wikki Tourists,Nasarawa United,-:-,,
+25/26,25,2026-02-11,10:00,Wikki Tourists,Katsina Utd.,-:-,,
+25/26,25,2026-02-11,10:00,Abia Warriors,Rangers,-:-,,
+25/26,25,2026-02-11,10:00,Kano Pillars,Remo Stars FC,-:-,,
+25/26,25,2026-02-11,10:00,Plateau United,Kwara United,-:-,,
+25/26,25,2026-02-11,10:00,Warri Wolves FC,Kanemi Warriors,-:-,,
+25/26,25,2026-02-11,10:00,Kun Khalifat FC,Shooting Stars,-:-,,
+25/26,25,2026-02-11,10:00,Rivers United,Barau FC,-:-,,
+25/26,25,2026-02-11,10:00,Ikorodu City,Niger Tornadoes,-:-,,
+25/26,25,2026-02-11,10:00,Bendel Ins.,Enyimba Aba,-:-,,
+25/26,25,2026-02-11,10:00,Nasarawa United,Bayelsa,-:-,,
+25/26,26,2026-02-16,09:00,Kanemi Warriors,Plateau United,-:-,,
+25/26,26,2026-02-16,10:00,Rangers,Wikki Tourists,-:-,,
+25/26,26,2026-02-16,10:00,Remo Stars FC,Abia Warriors,-:-,,
+25/26,26,2026-02-16,10:00,Kwara United,Kano Pillars,-:-,,
+25/26,26,2026-02-16,10:00,Shooting Stars,Warri Wolves FC,-:-,,
+25/26,26,2026-02-16,10:00,Barau FC,Kun Khalifat FC,-:-,,
+25/26,26,2026-02-16,10:00,Niger Tornadoes,Rivers United,-:-,,
+25/26,26,2026-02-16,10:00,Enyimba Aba,Ikorodu City,-:-,,
+25/26,26,2026-02-16,10:00,Bayelsa,Bendel Ins.,-:-,,
+25/26,26,2026-02-16,10:00,Katsina Utd.,Nasarawa United,-:-,,
+25/26,27,2026-02-22,10:00,Katsina Utd.,Rangers,-:-,,
+25/26,27,2026-02-22,10:00,Wikki Tourists,Remo Stars FC,-:-,,
+25/26,27,2026-02-22,10:00,Abia Warriors,Kwara United,-:-,,
+25/26,27,2026-02-22,10:00,Kano Pillars,Kanemi Warriors,-:-,,
+25/26,27,2026-02-22,10:00,Plateau United,Shooting Stars,-:-,,
+25/26,27,2026-02-22,10:00,Warri Wolves FC,Barau FC,-:-,,
+25/26,27,2026-02-22,10:00,Kun Khalifat FC,Niger Tornadoes,-:-,,
+25/26,27,2026-02-22,10:00,Rivers United,Enyimba Aba,-:-,,
+25/26,27,2026-02-22,10:00,Ikorodu City,Bayelsa,-:-,,
+25/26,27,2026-02-22,10:00,Nasarawa United,Bendel Ins.,-:-,,
+25/26,28,2026-02-28,10:00,Bendel Ins.,Ikorodu City,-:-,,
+25/26,28,2026-03-01,09:00,Kanemi Warriors,Abia Warriors,-:-,,
+25/26,28,2026-03-01,10:00,Remo Stars FC,Katsina Utd.,-:-,,
+25/26,28,2026-03-01,10:00,Kwara United,Wikki Tourists,-:-,,
+25/26,28,2026-03-01,10:00,Shooting Stars,Kano Pillars,-:-,,
+25/26,28,2026-03-01,10:00,Barau FC,Plateau United,-:-,,
+25/26,28,2026-03-01,10:00,Niger Tornadoes,Warri Wolves FC,-:-,,
+25/26,28,2026-03-01,10:00,Enyimba Aba,Kun Khalifat FC,-:-,,
+25/26,28,2026-03-01,10:00,Bayelsa,Rivers United,-:-,,
+25/26,28,2026-03-01,10:00,Rangers,Nasarawa United,-:-,,
+25/26,29,2026-03-09,11:00,Rangers,Remo Stars FC,-:-,,
+25/26,29,2026-03-09,11:00,Katsina Utd.,Kwara United,-:-,,
+25/26,29,2026-03-09,11:00,Wikki Tourists,Kanemi Warriors,-:-,,
+25/26,29,2026-03-09,11:00,Abia Warriors,Shooting Stars,-:-,,
+25/26,29,2026-03-09,11:00,Kano Pillars,Barau FC,-:-,,
+25/26,29,2026-03-09,11:00,Plateau United,Niger Tornadoes,-:-,,
+25/26,29,2026-03-09,11:00,Warri Wolves FC,Enyimba Aba,-:-,,
+25/26,29,2026-03-09,11:00,Kun Khalifat FC,Bayelsa,-:-,,
+25/26,29,2026-03-09,11:00,Rivers United,Bendel Ins.,-:-,,
+25/26,29,2026-03-09,11:00,Nasarawa United,Ikorodu City,-:-,,
+25/26,30,2026-03-14,11:00,Bendel Ins.,Kun Khalifat FC,-:-,,
+25/26,30,2026-03-15,10:00,Kanemi Warriors,Katsina Utd.,-:-,,
+25/26,30,2026-03-15,11:00,Kwara United,Rangers,-:-,,
+25/26,30,2026-03-15,11:00,Shooting Stars,Wikki Tourists,-:-,,
+25/26,30,2026-03-15,11:00,Barau FC,Abia Warriors,-:-,,
+25/26,30,2026-03-15,11:00,Niger Tornadoes,Kano Pillars,-:-,,
+25/26,30,2026-03-15,11:00,Enyimba Aba,Plateau United,-:-,,
+25/26,30,2026-03-15,11:00,Bayelsa,Warri Wolves FC,-:-,,
+25/26,30,2026-03-15,11:00,Ikorodu City,Rivers United,-:-,,
+25/26,30,2026-03-15,11:00,Remo Stars FC,Nasarawa United,-:-,,
+25/26,31,2026-03-23,11:00,Remo Stars FC,Kwara United,-:-,,
+25/26,31,2026-03-23,11:00,Rangers,Kanemi Warriors,-:-,,
+25/26,31,2026-03-23,11:00,Katsina Utd.,Shooting Stars,-:-,,
+25/26,31,2026-03-23,11:00,Wikki Tourists,Barau FC,-:-,,
+25/26,31,2026-03-23,11:00,Abia Warriors,Niger Tornadoes,-:-,,
+25/26,31,2026-03-23,11:00,Kano Pillars,Enyimba Aba,-:-,,
+25/26,31,2026-03-23,11:00,Plateau United,Bayelsa,-:-,,
+25/26,31,2026-03-23,11:00,Warri Wolves FC,Bendel Ins.,-:-,,
+25/26,31,2026-03-23,11:00,Kun Khalifat FC,Ikorodu City,-:-,,
+25/26,31,2026-03-23,11:00,Nasarawa United,Rivers United,-:-,,
+25/26,32,2026-03-28,11:00,Bendel Ins.,Plateau United,-:-,,
+25/26,32,2026-03-29,10:00,Kanemi Warriors,Remo Stars FC,-:-,,
+25/26,32,2026-03-29,11:00,Shooting Stars,Rangers,-:-,,
+25/26,32,2026-03-29,11:00,Barau FC,Katsina Utd.,-:-,,
+25/26,32,2026-03-29,11:00,Niger Tornadoes,Wikki Tourists,-:-,,
+25/26,32,2026-03-29,11:00,Enyimba Aba,Abia Warriors,-:-,,
+25/26,32,2026-03-29,11:00,Bayelsa,Kano Pillars,-:-,,
+25/26,32,2026-03-29,11:00,Ikorodu City,Warri Wolves FC,-:-,,
+25/26,32,2026-03-29,11:00,Rivers United,Kun Khalifat FC,-:-,,
+25/26,32,2026-03-29,11:00,Kwara United,Nasarawa United,-:-,,
+25/26,33,2026-04-06,11:00,Kwara United,Kanemi Warriors,-:-,,
+25/26,33,2026-04-06,11:00,Remo Stars FC,Shooting Stars,-:-,,
+25/26,33,2026-04-06,11:00,Rangers,Barau FC,-:-,,
+25/26,33,2026-04-06,11:00,Katsina Utd.,Niger Tornadoes,-:-,,
+25/26,33,2026-04-06,11:00,Wikki Tourists,Enyimba Aba,-:-,,
+25/26,33,2026-04-06,11:00,Abia Warriors,Bayelsa,-:-,,
+25/26,33,2026-04-06,11:00,Kano Pillars,Bendel Ins.,-:-,,
+25/26,33,2026-04-06,11:00,Plateau United,Ikorodu City,-:-,,
+25/26,33,2026-04-06,11:00,Warri Wolves FC,Rivers United,-:-,,
+25/26,33,2026-04-06,11:00,Nasarawa United,Kun Khalifat FC,-:-,,
+25/26,34,2026-04-11,11:00,Bendel Ins.,Abia Warriors,-:-,,
+25/26,34,2026-04-12,10:00,Kanemi Warriors,Nasarawa United,-:-,,
+25/26,34,2026-04-12,11:00,Shooting Stars,Kwara United,-:-,,
+25/26,34,2026-04-12,11:00,Barau FC,Remo Stars FC,-:-,,
+25/26,34,2026-04-12,11:00,Niger Tornadoes,Rangers,-:-,,
+25/26,34,2026-04-12,11:00,Enyimba Aba,Katsina Utd.,-:-,,
+25/26,34,2026-04-12,11:00,Bayelsa,Wikki Tourists,-:-,,
+25/26,34,2026-04-12,11:00,Ikorodu City,Kano Pillars,-:-,,
+25/26,34,2026-04-12,11:00,Rivers United,Plateau United,-:-,,
+25/26,34,2026-04-12,11:00,Kun Khalifat FC,Warri Wolves FC,-:-,,
+25/26,35,2026-04-19,10:00,Kanemi Warriors,Shooting Stars,-:-,,
+25/26,35,2026-04-19,10:00,Kwara United,Bendel Ins.,-:-,,
+25/26,35,2026-04-19,11:00,Kwara United,Barau FC,-:-,,
+25/26,35,2026-04-19,11:00,Remo Stars FC,Niger Tornadoes,-:-,,
+25/26,35,2026-04-19,11:00,Rangers,Enyimba Aba,-:-,,
+25/26,35,2026-04-19,11:00,Katsina Utd.,Bayelsa,-:-,,
+25/26,35,2026-04-19,11:00,Abia Warriors,Ikorodu City,-:-,,
+25/26,35,2026-04-19,11:00,Kano Pillars,Rivers United,-:-,,
+25/26,35,2026-04-19,11:00,Plateau United,Kun Khalifat FC,-:-,,
+25/26,35,2026-04-19,11:00,Nasarawa United,Warri Wolves FC,-:-,,
+25/26,35,2026-04-19,11:00,Wikki Tourists,Bendel Ins.,-:-,,
+25/26,36,2026-05-03,10:00,Remo Stars FC,Abia Warriors,-:-,,
+25/26,36,2026-05-03,11:00,Barau FC,Kanemi Warriors,-:-,,
+25/26,36,2026-05-03,11:00,Niger Tornadoes,Kwara United,-:-,,
+25/26,36,2026-05-03,11:00,Enyimba Aba,Remo Stars FC,-:-,,
+25/26,36,2026-05-03,11:00,Bayelsa,Rangers,-:-,,
+25/26,36,2026-05-03,11:00,Bendel Ins.,Katsina Utd.,-:-,,
+25/26,36,2026-05-03,11:00,Ikorodu City,Wikki Tourists,-:-,,
+25/26,36,2026-05-03,11:00,Kun Khalifat FC,Kano Pillars,-:-,,
+25/26,36,2026-05-03,11:00,Warri Wolves FC,Plateau United,-:-,,
+25/26,36,2026-05-03,11:00,Shooting Stars,Nasarawa United,-:-,,
+25/26,36,2026-05-03,11:00,Rivers United,Abia Warriors,-:-,,
+25/26,37,2026-05-10,10:00,Kanemi Warriors,Niger Tornadoes,-:-,,
+25/26,37,2026-05-10,11:00,Shooting Stars,Barau FC,-:-,,
+25/26,37,2026-05-10,11:00,Kwara United,Enyimba Aba,-:-,,
+25/26,37,2026-05-10,11:00,Remo Stars FC,Bayelsa,-:-,,
+25/26,37,2026-05-10,11:00,Rangers,Bendel Ins.,-:-,,
+25/26,37,2026-05-10,11:00,Katsina Utd.,Ikorodu City,-:-,,
+25/26,37,2026-05-10,11:00,Wikki Tourists,Rivers United,-:-,,
+25/26,37,2026-05-10,11:00,Abia Warriors,Kun Khalifat FC,-:-,,
+25/26,37,2026-05-10,11:00,Kano Pillars,Warri Wolves FC,-:-,,
+25/26,37,2026-05-10,11:00,Nasarawa United,Plateau United,-:-,,
+25/26,38,2026-05-24,11:00,Niger Tornadoes,Shooting Stars,-:-,,
+25/26,38,2026-05-24,11:00,Enyimba Aba,Kanemi Warriors,-:-,,
+25/26,38,2026-05-24,11:00,Bayelsa,Kwara United,-:-,,
+25/26,38,2026-05-24,11:00,Bendel Ins.,Remo Stars FC,-:-,,
+25/26,38,2026-05-24,11:00,Ikorodu City,Rangers,-:-,,
+25/26,38,2026-05-24,11:00,Rivers United,Katsina Utd.,-:-,,
+25/26,38,2026-05-24,11:00,Warri Wolves FC,Abia Warriors,-:-,,
+25/26,38,2026-05-24,11:00,Plateau United,Kano Pillars,-:-,,
+25/26,38,2026-05-24,11:00,Barau FC,Nasarawa United,-:-,,
+25/26,38,2026-05-24,11:00,Kun Khalifat FC,Wikki Tourists,-:-,,
